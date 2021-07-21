@@ -1,0 +1,11 @@
+mat-dialog-container{
+    background-color: red;
+}
+
+.popup-container h1{
+    text-align: center;
+}
+
+.popup-container button {
+  margin: 0 auto;
+}
